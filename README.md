@@ -1,1 +1,28 @@
-# IncodeVision-ML-Internship
+# 🚀 IncodeVision ML Internship
+
+Welcome to my **IncodeVision Machine Learning Internship** repository.
+
+This repository contains the projects and tasks I completed during my internship. Throughout this internship, I am applying data analysis and machine learning concepts to solve real-world problems while improving my practical skills.
+
+## 📂 Repository Contents
+
+- 📄 Internship Offer Letter:-
+- 
+- 🚖 Task 1 – Uber Data Analysis
+- ⏳ Upcoming Internship Tasks
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+- Git & GitHub
+
+## 📌 About This Repository
+
+Each task in this repository demonstrates my learning, project development, and hands-on experience gained during the internship. The projects will be updated as I complete new tasks.
+
+Thank you for visiting my repository!
