@@ -15,9 +15,11 @@ This repository contains the projects and tasks I completed during my internship
 
 - ## 🚖 Task 1: Uber Data Analysis
 
-📷 **Project Preview:**  
-https://github.com/Sarthaak-19/IncodeVision-ML-Internship/blob/main/IMG_20260718_175250.jpg
+## 🚖 Task 1: Uber Data Analysis
 
+Completed data cleaning, exploratory data analysis (EDA), and data visualization using Python.
+
+![Task 1 - Uber Data Analysis](https://raw.githubusercontent.com/Sarthaak-19/IncodeVision-ML-Internship/main/IMG_20260718_175250.jpg)
 - ⏳ Upcoming Internship Tasks
 
 ## 🛠️ Technologies Used
