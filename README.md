@@ -35,6 +35,12 @@ Completed data cleaning, exploratory data analysis (EDA), and data visualization
 - Google Colab
 - Git & GitHub
 
+- ## 📈 Key Tasks
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Insights and Conclusions
+
 ## 📌 About This Repository
 
 Each task in this repository demonstrates my learning, project development, and hands-on experience gained during the internship. The projects will be updated as I complete new tasks.
