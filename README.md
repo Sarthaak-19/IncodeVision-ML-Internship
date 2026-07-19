@@ -25,6 +25,14 @@ Completed data cleaning, exploratory data analysis (EDA), and data visualization
 - 📓 **Google Colab Notebook:** [Open Notebook](https://github.com/Sarthaak-19/IncodeVision-ML-Internship/blob/main/Task_1_uber_data_analysis_ml_intership.ipynb)
 - ⏳ Upcoming Internship Tasks
 
+- ## 2. House Price Prediction
+
+![House Price Prediction](https://github.com/Sarthaak-19/IncodeVision-ML-Internship/blob/main/IMG_20260718_191619.jpg)
+
+A machine learning project that predicts house prices using Linear Regression. The project covers data preprocessing, EDA, model training, and evaluation.
+
+🔗 **[View Source Code](YOUR_PROJECT_FOLDER_LINK)**
+
 ## 🛠️ Technologies Used
 
 - Python
