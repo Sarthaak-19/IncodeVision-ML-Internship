@@ -31,7 +31,7 @@ Completed data cleaning, exploratory data analysis (EDA), and data visualization
 
 A machine learning project that predicts house prices using Linear Regression. The project covers data preprocessing, EDA, model training, and evaluation.
 
-🔗 **[View Source Code](YOUR_PROJECT_FOLDER_LINK)**
+🔗 **[View Source Code](https://github.com/Sarthaak-19/IncodeVision-ML-Internship/blob/main/Task2.ipynb)**
 
 ## 🛠️ Technologies Used
 
