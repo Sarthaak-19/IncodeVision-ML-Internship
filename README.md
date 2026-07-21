@@ -40,6 +40,9 @@ A machine learning project that predicts house prices using Linear Regression. T
 This project focuses on detecting spam emails using Natural Language Processing (NLP) and machine learning. It includes text preprocessing, TF-IDF vectorization, model training, and performance evaluation.
 
 🔗 **View Source Code:**  
+https://github.com/Sarthaak-19/IncodeVision-ML-Internship/blob/main/Task_3.ipynb
+
+
 
 ## 🛠️ Technologies Used
 
